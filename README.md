@@ -29,5 +29,23 @@ This project uses the standard Python 3.8 and requires the following libraries a
 
 ## Results via Streamlit
 
-![]()
+![](https://github.com/ThomasBrierton/Pychain_Ledger/blob/main/Photos/Screen%20Shot%202022-05-05%20at%2011.16.47%20AM.png)
+
+![](https://github.com/ThomasBrierton/Pychain_Ledger/blob/main/Photos/Screen%20Shot%202022-05-05%20at%2011.17.32%20AM.png)
+
+![](https://github.com/ThomasBrierton/Pychain_Ledger/blob/main/Photos/Screen%20Shot%202022-05-05%20at%2011.18.52%20AM.png)
+
+![](https://github.com/ThomasBrierton/Pychain_Ledger/blob/main/Photos/Streamlit_gif.gif)
+
+---
+
+## Contributors 
+
+Thomas Brierton and UCB
+
+---
+
+## License
+
+MIT
 
